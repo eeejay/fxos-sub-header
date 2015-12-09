@@ -20,7 +20,7 @@ var debug = 0 ? console.log.bind(console) : function() {};
  * Exports
  */
 
-module.exports = component.register('gaia-sub-header', {
+module.exports = component.register('fxos-sub-header', {
   created: function() {
     this.setupShadowRoot();
 
@@ -160,4 +160,4 @@ module.exports = component.register('gaia-sub-header', {
 });})((function(n,w){'use strict';return typeof define=='function'&&define.amd?
 define:typeof module=='object'?function(c){c(require,exports,module);}:
 function(c){var m={exports:{}},r=function(n){return w[n];};
-w[n]=c(r,m.exports,m)||m.exports;};})('gaia-sub-header',this));
+w[n]=c(r,m.exports,m)||m.exports;};})('fxos-sub-header',this));

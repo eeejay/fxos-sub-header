@@ -1,9 +1,9 @@
 {
-  "name": "gaia-sub-header",
+  "name": "fxos-sub-header",
   "version": "0.4.1",
-  "homepage": "https://github.com/fxos-components/gaia-sub-header",
+  "homepage": "https://github.com/fxos-components/fxos-sub-header",
   "license": "MIT",
-  "main": "gaia-sub-header.js",
+  "main": "fxos-sub-header.js",
   "devDependencies": {
     "bower": "^1.4.1",
     "jshint": "^2.7.0",
@@ -21,7 +21,7 @@
   },
   "scripts": {
     "install": "bower install",
-    "test-lint": "./node_modules/jshint/bin/jshint gaia-sub-header.js test/*.js",
+    "test-lint": "./node_modules/jshint/bin/jshint fxos-sub-header.js test/*.js",
     "test-unit": "./node_modules/karma/bin/karma start test/karma.conf.js --single-run",
     "test-integration": "./node_modules/.bin/marionette-mocha --reporter spec --host marionette-firefox-host --runtime $FIREFOX_NIGHTLY_BIN --timeout 6000s test/test-integration.js",
     "test-unit-dev": "./node_modules/karma/bin/karma start test/karma.conf.js",
@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fxos-components/gaia-sub-header.git"
+    "url": "git://github.com/fxos-components/fxos-sub-header.git"
   },
   "bugs": {
-    "url": "https://github.com/fxos-components/gaia-sub-header/issues"
+    "url": "https://github.com/fxos-components/fxos-sub-header/issues"
   },
   "browser": {
     "fxos-component": "./bower_components/fxos-component/fxos-component.js"

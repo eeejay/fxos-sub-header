@@ -20,7 +20,7 @@ module.exports = function(config) {
 
     files: [
       'bower_components/fxos-component/fxos-component.js',
-      'gaia-sub-header.js',
+      'fxos-sub-header.js',
       'node_modules/axe-core/axe.min.js',
       'node_modules/test-utils/src/utils.js',
       'node_modules/test-utils/src/accessibility.js',
