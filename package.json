@@ -1,7 +1,7 @@
 {
   "name": "gaia-sub-header",
   "version": "0.4.1",
-  "homepage": "https://github.com/gaia-components/gaia-sub-header",
+  "homepage": "https://github.com/fxos-components/gaia-sub-header",
   "license": "MIT",
   "main": "gaia-sub-header.js",
   "devDependencies": {
@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gaia-components/gaia-sub-header.git"
+    "url": "git://github.com/fxos-components/gaia-sub-header.git"
   },
   "bugs": {
-    "url": "https://github.com/gaia-components/gaia-sub-header/issues"
+    "url": "https://github.com/fxos-components/gaia-sub-header/issues"
   },
   "browser": {
-    "gaia-component": "./bower_components/gaia-component/gaia-component.js"
+    "fxos-component": "./bower_components/fxos-component/fxos-component.js"
   },
   "dependencies": {
-    "gaia-component": "git://github.com/gaia-components/gaia-component.git"
+    "fxos-component": "git://github.com/fxos-components/fxos-component.git"
   }
 }

@@ -7,7 +7,7 @@
  * Dependencies
  */
 
-var component = require('gaia-component');
+var component = require('fxos-component');
 
 /**
  * Simple logger (toggle 0)

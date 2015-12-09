@@ -19,7 +19,7 @@ module.exports = function(config) {
     },
 
     files: [
-      'bower_components/gaia-component/gaia-component.js',
+      'bower_components/fxos-component/fxos-component.js',
       'gaia-sub-header.js',
       'node_modules/axe-core/axe.min.js',
       'node_modules/test-utils/src/utils.js',

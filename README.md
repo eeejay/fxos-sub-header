@@ -1,23 +1,23 @@
-# &lt;gaia-sub-header&gt; ![](https://travis-ci.org/gaia-components/gaia-sub-header.svg)  [![devDependency Status](https://david-dm.org/gaia-components/gaia-sub-header/dev-status.svg)](https://david-dm.org/gaia-components/gaia-sub-header#info=devDependencies)
+# &lt;gaia-sub-header&gt; ![](https://travis-ci.org/fxos-components/gaia-sub-header.svg)  [![devDependency Status](https://david-dm.org/fxos-components/gaia-sub-header/dev-status.svg)](https://david-dm.org/fxos-components/gaia-sub-header#info=devDependencies)
 
 
 ## Installation
 
 ```bash
-$ bower install gaia-components/gaia-sub-header
+$ bower install fxos-components/gaia-sub-header
 
 ```
 
 Then include folowing files in HTML
 
 ```html
-<script src="bower_components/gaia-component/gaia-component.js"></script>
+<script src="bower_components/fxos-component/fxos-component.js"></script>
 <script src="bower_components/gaia-sub-header/gaia-sub-header.js"></script>
 ```
 
 ## Examples
 
-- [Example](http://gaia-components.github.io/gaia-sub-header/)
+- [Example](http://fxos-components.github.io/gaia-sub-header/)
 
 ## Accessibility
 
